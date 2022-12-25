@@ -1,0 +1,20 @@
+C:\Users\Ckd4\source\repos\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Ckd4\source\repos\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Ckd4\source\repos\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Ckd4\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Ckd4\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Ckd4\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Ckd4\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Ckd4\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Ckd4\source\repos\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form.resources
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\obj\Debug\WindowsFormsApp.Form.resources
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Ckd4\Desktop\PROJECTS\Мульти WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
